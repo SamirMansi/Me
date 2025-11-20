@@ -1,5 +1,3 @@
-# Me
-Hello , Welcome to my Profile
 <!-- Banner Image -->
 ![Banner](./04c8bf0fe3.png)
 
@@ -55,21 +53,21 @@ Driven by curiosity and ambition, I aim to create **secure, high-quality digital
 ---
 
 ## 📫 Connect With Me
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SamirMansi)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samirmansiiiiii@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamirMansi&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamirMansi&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ### 🔥 Contribution Graph
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SamirMansi&theme=react-dark)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark)
 
 ### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=SamirMansi&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge)
 
 ---
 
