@@ -36,15 +36,17 @@ Driven by curiosity and ambition, I aim to create **secure, high-quality digital
 ---
 
 ## 🎯 Goals
-- Master advanced **Cybersecurity techniques**
+- Master advanced **Cybersecurity techniques & Problem Solving **
 - Contribute to **open-source projects**
 - Build innovative and secure **software solutions**
 
 ---
 
 ## 📂 Programming Projects (Placeholders)
-- [Advanced Data Structures](#)
+- [ Data Structures & Algorithm ](#)
 - [Web Development Portfolio](#)
+- [DataBase & Sql ](#)
+- 
 
 ## 🔐 Cybersecurity Projects (Placeholders)
 - [Penetration Testing Lab](#)
