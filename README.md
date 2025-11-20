@@ -42,13 +42,13 @@ Driven by curiosity and ambition, I aim to create **secure, high-quality digital
 
 ---
 
-## 📂 Programming Projects (Placeholders)
+## 📂 Programming Projects 
 - [ Data Structures & Algorithm ](#)
 - [Web Development Portfolio](#)
 - [DataBase & Sql ](#)
 - 
 
-## 🔐 Cybersecurity Projects (Placeholders)
+## 🔐 Cybersecurity Projects 
 - [Penetration Testing Lab](#)
 - [Secure Authentication System](#)
 
