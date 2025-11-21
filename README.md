@@ -40,19 +40,9 @@ Driven by curiosity and ambition, I aim to create **secure, high-quality digital
 - Contribute to **open-source projects**
 - Build innovative and secure **software solutions**
 
----
 
-## 📂 Programming Projects 
-- [ Data Structures & Algorithm ](#)
-- [Web Development Portfolio](#)
-- [DataBase & Sql ](#)
-- 
 
-## 🔐 Cybersecurity Projects 
-- [Penetration Testing Lab](#)
-- [Secure Authentication System](#)
 
----
 
 ## 📫 Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SamirMansi)
